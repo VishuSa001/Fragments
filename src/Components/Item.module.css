@@ -1,0 +1,16 @@
+.vs-item{
+    background-color: khaki;
+    }
+    
+    .food-heading{
+    /* background-color: silver; */
+    color: brown;
+    }
+    
+    .vs-span{
+    font-weight: 500;
+    color: orange;
+    }
+    .button{
+        float: right;
+    }
